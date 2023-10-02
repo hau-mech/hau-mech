@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-HEAD
-
 - 🔭 We are part of the Department of Mechanical and Marine Engineering at HVL.
 
 - 🌱 We offer a Bachelor of Mechanical Engineering.
