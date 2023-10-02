@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 We are part of the Department of Mechanical and Marine Engineering at HVL.
+
+- 🌱 We offer a Bachelor of Mechanical Engineering.
+
+- 👯 The education in mechanical engineering is built up in close cooperation with industry in the Haugesund region
+
+
+
